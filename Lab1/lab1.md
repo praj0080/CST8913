@@ -19,3 +19,16 @@ Ans:-
 
 Q-4: Describe the most likely migration approach that will suit the chosen company.
 Ans:- I will go for hybrid migration method which can best for the Lhosit.
+-Pilot Installation: Start with a limited number of locations (five pilot sites, for example). Validate the capacity of Azure Defender for IoT and how it works with the current infrastructures (such as AlienVault SIEM).
+-Starting Rollout: To ensure the least amount of operational disturbance, gradually extend activation to more plants in a prearranged order.
+-Agentless Installation: To prevent performance issues on OT devices, utilize Azure Defender for IoT's agentless functionality.
+-Connectivity and Optimizing: For smooth surveillance, interconnect into MSSP and SOC systems. Adjust parameters to cut down on noise and guarantee flexible alarms.
+
+Q-5: Produce a high level schedule for the migration process
+Ans:- 
+
+
+
+
+Q-6: What are the main decision criteria for the chosen company?
+
