@@ -37,6 +37,13 @@ Ans:- I will go for hybrid migration method which can best for the Lhosit.
 
 Q-5: Produce a high level schedule for the migration process
 Ans:- 
+| Phase                    | Duration     | Key Activities                                                       |
+|--------------------------|--------------|----------------------------------------------------------------------|
+| Planning and Assessment  | 2 Months     | Stakeholder alignment, infrastructure evaluation, and the RFP method |
+| Pilot Deployment         | 3 Months     | Install at five locations, then check interaction and efficiency.    |
+| Global Rollout Planning  | 1 Month      | Create installation schedules tailored to each site.                 |
+| Global Rollout           | 12 Months    |installation in segments across 80 plants                             |
+| Ongoing Optimization     | Continuous   | Adjusting, maintaining, offering operational assistance              |
 
 
 
@@ -46,13 +53,4 @@ Ans:-
 Q-6: What are the main decision criteria for the chosen company?
 Ans: A number of important factors impacted Lhoist's choice of using Azure Defender for IoT. Strong security efficacy and the capacity to detect and address threats in operational technology (OT) systems are essential parts of the solution. Agentless tracking guarantees less disruption to current operational technologies, making adoption simple. A further crucial factor is adaptability to allow for smooth worldwide deployment across numerous plants, along with connectivity with various OT protocols and older systems. Maintaining operational consistency includes integration with current tools, such AlienVault SIEM. A comprehensive cost-benefit analysis must also demonstrate an excellent value on investment (ROI), which is fueled by increased security posture, decreased interruptions and improved performance.
 
-
-
-
-
-| Task          | Status        | Owner         |
-|---------------|---------------|---------------|
-| Create table  | In progress   | User          |
-| Review content| Completed     | Reviewer      |
-| Finalize file | Pending       | Team Lead     |
 
