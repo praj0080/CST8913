@@ -15,7 +15,7 @@ Ans: Here some questions to get better idea of the company infrastructures.
 -How are controlling access along with data governance already handled?
 
 Q-3: Produce a RACI matrix for the migration stakeholders
-Ans:-
+Ans:-![image](https://github.com/user-attachments/assets/2f84c80b-41e0-4572-b9b6-32bb78dd8159)
 
 Q-4: Describe the most likely migration approach that will suit the chosen company.
 Ans:- I will go for hybrid migration method which can best for the Lhosit.
@@ -26,7 +26,7 @@ Ans:- I will go for hybrid migration method which can best for the Lhosit.
 
 Q-5: Produce a high level schedule for the migration process
 Ans:- 
-![image](https://github.com/user-attachments/assets/2f84c80b-41e0-4572-b9b6-32bb78dd8159)
+
 
 
 
