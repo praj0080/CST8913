@@ -25,6 +25,8 @@ Ans:-
 | Threat Detection and Mitigation | IT Security Team      | MSSP             | Automation Experts              | Plant Staff       |
 | Starting Rollout                | IT Security Team       | CISO             | VP of Operations, MSSP          | All Plants        |
 | Connectivity and Optimization | MSSP             | IT Security Team | Automation Experts              | VP of Operations  |
+
+
 Q-4: Describe the most likely migration approach that will suit the chosen company.
 Ans:- I will go for hybrid migration method which can best for the Lhosit.
 -Pilot Installation: Start with a limited number of locations (five pilot sites, for example). Validate the capacity of Azure Defender for IoT and how it works with the current infrastructures (such as AlienVault SIEM).
