@@ -24,10 +24,6 @@ Ans:-
 | Threat Detection and Mitigation | IT Security Team      | MSSP             | Automation Experts              | Plant Staff       |
 | Starting Rollout                | IT Security Team       | CISO             | VP of Operations, MSSP          | All Plants        |
 | Connectivity and Optimization | MSSP             | IT Security Team | Automation Experts              | VP of Operations  |
-
-
-
-
 Q-4: Describe the most likely migration approach that will suit the chosen company.
 Ans:- I will go for hybrid migration method which can best for the Lhosit.
 -Pilot Installation: Start with a limited number of locations (five pilot sites, for example). Validate the capacity of Azure Defender for IoT and how it works with the current infrastructures (such as AlienVault SIEM).
@@ -40,16 +36,10 @@ Ans:-
 | Phase                    | Duration     | Key Activities                                                       |
 |--------------------------|--------------|----------------------------------------------------------------------|
 | Planning and Assessment  | 2 Months     | Stakeholder alignment, infrastructure evaluation, and the RFP method |
-| Pilot Deployment         | 3 Months     | Install at five locations, then check interaction and efficiency.    |
+| Pilot installtion        | 4 Months     | Install at five locations, then check interaction and efficiency.    |
 | Global Rollout Planning  | 1 Month      | Create installation schedules tailored to each site.                 |
-| Global Rollout           | 12 Months    |installation in segments across 80 plants                             |
+| Global Rollout           | 1 year       |installation in segments across 80 plants                             |
 | Ongoing Optimization     | Continuous   | Adjusting, maintaining, offering operational assistance              |
-
-
-
-
-
-
 Q-6: What are the main decision criteria for the chosen company?
 Ans: A number of important factors impacted Lhoist's choice of using Azure Defender for IoT. Strong security efficacy and the capacity to detect and address threats in operational technology (OT) systems are essential parts of the solution. Agentless tracking guarantees less disruption to current operational technologies, making adoption simple. A further crucial factor is adaptability to allow for smooth worldwide deployment across numerous plants, along with connectivity with various OT protocols and older systems. Maintaining operational consistency includes integration with current tools, such AlienVault SIEM. A comprehensive cost-benefit analysis must also demonstrate an excellent value on investment (ROI), which is fueled by increased security posture, decreased interruptions and improved performance.
 
