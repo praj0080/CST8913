@@ -1,4 +1,5 @@
 Migration plan for Lhoist's Iot adoption of azure defender.
+
 Q-1: What are the company's motivators of migration to the cloud?
 Ans:- There are many primary motivators for Lhoist's which are improved security which can reducing the possibility of malware attacks, pratical efficacy that can helps into system oprations and improve monitoring of network , IT connectivity helps to bussiness objectives, scalability which can help into deployment easier over the worldwide,cost reductions, Advanced future technology like microsoft technology office 365 and power BI for regualations and reports.
 
