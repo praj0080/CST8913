@@ -15,7 +15,18 @@ Ans: Here some questions to get better idea of the company infrastructures.
 -How are controlling access along with data governance already handled?
 
 Q-3: Produce a RACI matrix for the migration stakeholders
-Ans:-![image](https://github.com/user-attachments/assets/2f84c80b-41e0-4572-b9b6-32bb78dd8159)
+Ans:- 
+| Task                          | Responsible            | Accountable      | Consulted                       | Informed          |
+|-------------------------------|------------------------|------------------|---------------------------------|-------------------|
+| Project Planning              | CISO (Clément Herssens)| VP of Operations | Plant Managers, Automation Team| Board Members     |
+| Asset Discovery               | Team automation        | IT Security Team | OT Network Engineers            | Plant Managers    |
+| Pilot installtion              | IT Security Team       | CISO             | MSSP, Automation Experts        | Operations Staff  |
+| Threat Detection and Mitigation | IT Security Team      | MSSP             | Automation Experts              | Plant Staff       |
+| Starting Rollout                | IT Security Team       | CISO             | VP of Operations, MSSP          | All Plants        |
+| Connectivity and Optimization | MSSP             | IT Security Team | Automation Experts              | VP of Operations  |
+
+
+
 
 Q-4: Describe the most likely migration approach that will suit the chosen company.
 Ans:- I will go for hybrid migration method which can best for the Lhosit.
