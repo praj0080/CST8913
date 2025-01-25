@@ -31,3 +31,5 @@ Ans:- This is a diagram for PaaS Infrastractures.
 ![PaaS ](https://github.com/praj0080/CST8913/blob/main/Lab2/PaaS.png)
 
 This is a diagram for IaaS Infrastractures.
+
+![PaaS ](https://github.com/praj0080/CST8913/blob/main/Lab2/IaaS.png)
