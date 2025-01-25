@@ -28,3 +28,5 @@ Scaling:- The PaaS platform provides automatic scaling to set up the storage, an
 Q-3 For each case, draw a diagram that represents the target architecture and describe each of the chosen cloud components.
 Ans:- This is a diagram for IaaS Infrastractures.
 
+
+
