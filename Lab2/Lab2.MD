@@ -26,6 +26,8 @@ Networking: In order to ensure high availability and efficiency, PaaS platforms 
 Scaling:- The PaaS platform provides automatic scaling to set up the storage, and compute capacity based on the traffic instances. 
 
 Q-3 For each case, draw a diagram that represents the target architecture and describe each of the chosen cloud components.
-Ans:- This is a diagram for IaaS Infrastractures.
-![Alt text ](https://github.com/praj0080/CST8913/blob/main/Lab2/PaaS.png)
-https://github.com/praj0080/CST8913/blob/main/Lab2/PaaS.png
+Ans:- This is a diagram for PaaS Infrastractures.
+
+![PaaS ](https://github.com/praj0080/CST8913/blob/main/Lab2/PaaS.png)
+
+This is a diagram for IaaS Infrastractures.
