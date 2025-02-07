@@ -2,9 +2,9 @@
 # Multi-Region Deployment with Load Balancing
 ## Solution Overview
 The lift-and-shift migrating strategy for a web application that is now running on two virtualized machines—WebServerVM and SQLVM—is explained in this High-Level Design (HLD) paper. In the cloud environment, achieving load balancing and high accessibility across several locations is the aim. In order to assure continuous service access, the application's architecture is built to handle programmed redundancy and limited downtime (no longer than six hours).
-## Solution Diagram
+## 1 Solution Diagram
 ![Image](https://github.com/user-attachments/assets/2842d329-92b3-4404-b6c7-22b95696542f)
-## Target architecture Description
+## 2 Target architecture Description
 ### Components
 #### WebServerVM:
 - **Function**:Hosts fixed material and functions like the frontend server.
@@ -23,7 +23,7 @@ The lift-and-shift migrating strategy for a web application that is now running 
 - **Database Failover**:ensures that an additional database in an alternate locale may take over in the case of a main database loss without affecting application availability by using SQL reflecting or continuous reliability groups, based according to the SQL version.
 
 
-## Migration Steps
+## 3 Migration Steps
 
 ### Replication of Virtual Machines:
 - In the desired areas, build identical WebServerVM and SQLVM virtual machines.
