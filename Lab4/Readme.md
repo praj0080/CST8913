@@ -25,15 +25,15 @@ The lift-and-shift migrating strategy for a web application that is now running 
 
 ## 3 Migration Steps
 
-### Replication of Virtual Machines:
+### Step 1: Replication of Virtual Machines:
 - In the desired areas, build identical WebServerVM and SQLVM virtual machines.
 - To keep things identical make sure the virtual machines are set up with comparable networking and safety configurations.
-### Configuration of Load Balancers:
--Install global load balancers to control the distribution of traffic among various locations.
+### Step 2:Configuration of Load Balancers:
+- Install global load balancers to control the distribution of traffic among various locations.
 - Set up health monitoring to keep an eye on virtual machine examples' stability and divert traffic from any machines which are not functioning..
-### Implementation of Database Replication and Failover:
--Set up replication of information through the primary and secondary SQLVM servers in different places in the world.
--In order to ensure that the second database taking control with a small amount of disturbance in the event when the primary database fails, configure automated failover rules.
+### Step 3:Implementation of Database Replication and Failover:
+-  Set up replication of information through the primary and secondary SQLVM servers in different places in the world.
+-  In order to ensure that the second database taking control with a small amount of disturbance in the event when the primary database fails, configure automated failover rules.
 ## Conclusion
 The application will keep continuing to be extremely accessible and resistant to region disturbances thanks to this migration method. The program is in an excellent spot to fulfill its uptime demands and offer a dependable user interface through applying multi-region installations and advanced failover methods.
 
