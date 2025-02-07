@@ -3,7 +3,7 @@
 ## Solution Overview
 The lift-and-shift migrating strategy for a web application that is now running on two virtualized machines—WebServerVM and SQLVM—is explained in this High-Level Design (HLD) paper. In the cloud environment, achieving load balancing and high accessibility across several locations is the aim. In order to assure continuous service access, the application's architecture is built to handle programmed redundancy and limited downtime (no longer than six hours).
 ## 1 Solution Diagram
-![Image](https://github.com/user-attachments/assets/1b83a782-10e7-428c-8aa0-89b246c09bf2)
+![Image](https://github.com/user-attachments/assets/6542c92c-d165-4701-b83f-452f4ae55796)
 ## 2 Target architecture Description
 ### Components
 #### WebServerVM:
