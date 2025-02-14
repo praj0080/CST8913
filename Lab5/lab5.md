@@ -1,4 +1,4 @@
-# cloud Resource Comparison Across AWS, Azure, and Google Cloud
+# Cloud Resource Comparison Across AWS, Azure, and Google Cloud
 
 # Objective: Students will research and identify equivalent cloud services across AWS, Microsoft Azure, and Google Cloud based on the provided descriptions of 30 common cloud resources. The objective is to help students understand the similarities and differences between cloud service providers in terms of naming conventions and service features.
 
