@@ -67,9 +67,12 @@ Deployment procedures have been simplified by CI/CD pipelines which utilize GitH
 
 ## **Architecture Diagrams**
 ### **Before Refactoring:**
-
+---
+---
 ### **After Refactoring:**
+---
 
+---
 ## **Difficulties & Takeaways** 
 #### **Difficulties:** 
 - Ensuring a smooth databases transfer alongside no downtime.
@@ -90,7 +93,8 @@ Deployment procedures have been simplified by CI/CD pipelines which utilize GitH
 - Azure service deployment is done automatically by Terraform/Bicep scripts.
 -It decreases human mistaken configurations and improves repeatability.
 
---- ### **Conclusion** 
+--- 
+### **Conclusion** 
 The business benefits from **better scalability, cost efficiency, and operational resilience** from reworking the **Customer Order Management System** to become a cloud-native solution. Better automation, security, and application performance are rendered possible by utilizing Azure services.
 
 
