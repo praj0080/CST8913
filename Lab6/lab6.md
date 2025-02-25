@@ -91,7 +91,7 @@ Deployment procedures have been simplified by CI/CD pipelines which utilize GitH
 -A thorough record concerning the migrating procedure.
 ## **Bonus Challenge: Infrastructure as Code (IaC) Implementation** 
 - Azure service deployment is done automatically by Terraform/Bicep scripts.
--It decreases human mistaken configurations and improves repeatability.
+- It decreases human mistaken configurations and improves repeatability.
 
 --- 
 ### **Conclusion** 
