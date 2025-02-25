@@ -1,9 +1,9 @@
 # Lab 6 - Refactoring a Legacy Customer Order Management System for Cloud-Native Deployment on Azure
 ## Objective
-This lab aims of this lab is to update a **Customer Order Management System** that is now running on a Windows Server 2019 virtual machine as a monolithic web application. Refactoring it into a cloud-native architecture with Microsoft Azure services is the aim in order to increase cost-effectiveness, scalability, and resilience.
+This laboratory The purpose of this lab is to update a **Customer Order Management System** that is currently operating in the form of monolithic online application on a Windows Server 2019 virtual machine. The goal intends to boost cost-effectiveness, scalability, and robustness by refactoring it toward a cloud-native design utilizing Microsoft Azure services.
 
 ## Scenario
-Order processing, inventory control, and customer orders are all handled by a company's **Customer Order Management System**. On a single Windows Server 2019 virtual machine in Azure, the application currently operates as a monolith web application. With the goal to increase scalability, performance, and maintainability, the organization would like to migrate to a cloud-native solution.
+A business uses a **Customer Order Management System** to manage inventory, process orders, and manage customer orders. Currently, the application functions as a monolith web application on a single Windows Server 2019 virtual machine around Azure. To improve scalability, efficiency, and accessibility, the company is considering transitioning to a cloud-native solution.
 
 ## Refactored Architecture
 ### **Challenges with the Existing Setup:**
@@ -21,8 +21,8 @@ Order processing, inventory control, and customer orders are all handled by a co
 
 ## **Refactoring Strategy**
 ### **Step 1: Assessing the Existing Architecture**
--Determine which parts are indeed monolithic, such as customer service, inventory control, and processing of orders.
--Find out how the components work together and rely on one another.
+-Identify the components that are in fact monolithic, such as order processing, management of inventory, and support for clients.
+-Learn how the parts relate and rely on each other.
 
 ### **Step 2: Breaking Down the Monolith into Microservices**
 Divide the program among separate services:
