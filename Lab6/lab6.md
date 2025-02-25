@@ -68,10 +68,11 @@ Deployment procedures have been simplified by CI/CD pipelines which utilize GitH
 ## **Architecture Diagrams**
 ### **Before Refactoring:**
 ---
+
 ---
 ### **After Refactoring:**
 ---
-
+![Image](https://github.com/user-attachments/assets/00a43e85-2017-4f04-85a7-9eed00e19ae9)
 ---
 ## **Difficulties & Takeaways** 
 #### **Difficulties:** 
