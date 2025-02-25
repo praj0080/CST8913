@@ -1,9 +1,9 @@
 # Lab 6 - Refactoring a Legacy Customer Order Management System for Cloud-Native Deployment on Azure
 ## Objective
-This laboratory The purpose of this lab is to update a **Customer Order Management System** that is currently operating in the form of monolithic online application on a Windows Server 2019 virtual machine. The goal intends to boost cost-effectiveness, scalability, and robustness by refactoring it toward a cloud-native design utilizing Microsoft Azure services.
+This laboratory The purpose of this lab is to update a **Customer Order Management System** which is currently operating in the form of monolithic online application on a Windows Server 2019 virtual machine. The goal intends to boost cost-effectiveness, scalability, and robustness by refactoring it toward a cloud-native design utilizing Microsoft Azure services.
 
 ## Scenario
-A business uses a **Customer Order Management System** to manage inventory, process orders, and manage customer orders. Currently, the application functions as a monolith web application on a single Windows Server 2019 virtual machine around Azure. To improve scalability, efficiency, and accessibility, the company is considering transitioning to a cloud-native solution.
+A business uses a **Customer Order Management System** to manage inventory, process orders, and manage customer orders. Currently, the application functions as a monolith web application on a single Windows Server 2019 virtual machine around Azure. To increase scalability, efficiency, and accessibility, the company can be considering transitioning to a cloud-native solution.
 
 ## Refactored Architecture
 ### **Challenges with the Existing Setup:**
