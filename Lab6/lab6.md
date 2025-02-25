@@ -68,7 +68,7 @@ Deployment procedures have been simplified by CI/CD pipelines which utilize GitH
 ## **Architecture Diagrams**
 ### **Before Refactoring:**
 ---
-
+![Image](https://github.com/user-attachments/assets/be0a784a-653f-42d0-b9e7-01dc0c85cced)
 ---
 ### **After Refactoring:**
 ---
@@ -86,7 +86,6 @@ Deployment procedures have been simplified by CI/CD pipelines which utilize GitH
 - **CI/CD automation speeds up installations and lowers personal error.**
 
 ## **Deliverables**
-- [URL of GitHub Repository](#)
 -Terraform/Bicep arrangements and the source code.
 -Diagrams of the building before and after.
 -A thorough record concerning the migrating procedure.
