@@ -7,7 +7,7 @@
 - **Budget Limit:** **$50.00 USD**
 - **Created On:** YYYY-MM-DD
 
-![Budget Summary](images/budget_summary.png)
+![Budget Summary]![Image](https://github.com/user-attachments/assets/ec83be27-2c62-404b-a56f-b523d28418bb)
 
 ## Alert Configuration
 ### **50% Usage Alert**
@@ -20,7 +20,7 @@
 - **Notification Type:** Email
 - **Recipient:** user@example.com
 
-![Alert Thresholds](images/alert_thresholds.png)
+![Alert Thresholds]
 
 ## Notes
 - Alerts will notify via email when usage reaches 50% and 90%.
