@@ -5,7 +5,7 @@
 - **Scope:** Azure Subscription
 - **Reset Period:** Monthly
 - **Budget Limit:** **$50.00 USD**
-- **Created On:** YYYY-MM-DD
+- **Created On:** 2025-03-15
 
 ![Budget Summary]![Image](https://github.com/user-attachments/assets/ec83be27-2c62-404b-a56f-b523d28418bb)
 
@@ -13,14 +13,14 @@
 ### **50% Usage Alert**
 - **Threshold:** 50% ($25.00)
 - **Notification Type:** Email
-- **Recipient:** user@example.com
+- **Recipient:**praj0080@algonquinlive.com
 
 ### **90% Usage Alert**
 - **Threshold:** 90% ($45.00)
 - **Notification Type:** Email
-- **Recipient:** user@example.com
+- **Recipient:** praj0080@algonquinlive.com
 
-![Alert Thresholds]
+![Image](https://github.com/user-attachments/assets/a8366fb9-9a69-4fcc-9375-f771add25c20)
 
 ## Notes
 - Alerts will notify via email when usage reaches 50% and 90%.
