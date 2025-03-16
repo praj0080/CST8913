@@ -3,7 +3,7 @@
 - **Generated On:** 2025-03-15
 - **Scope:** Azure Subscription
 - **Date Range:** Last 30 Days
-- **Currency:** USD
+- **Currency:** USD & CAD
 
 
 |UsageDate |ServiceName          |CostUSD               |Cost                 |Currency|
