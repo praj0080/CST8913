@@ -1,6 +1,6 @@
 # Cloud Landing Zone Analysis
 
-## Concept of a Cloud Landing Zone (2 Marks)
+## Concept of a Cloud Landing Zone 
 
 ### Definition
 An organized, safe, and uniform setting designated as a **Cloud Landing Zone** becomes the base for cloud migrations. It insures that cloud installations are safe, consistent, and compliant with company guidelines.
@@ -17,7 +17,7 @@ Accelerated implementation, easier administration, security, governance, and com
 
 ---
 
-## Comparison of Landing Zones (2 Marks)
+## Comparison of Landing Zones 
 
 | Type                     | Description                                           | Example Use Case                                             |
 |--------------------------|-------------------------------------------------------|--------------------------------------------------------------|
@@ -26,7 +26,7 @@ Accelerated implementation, easier administration, security, governance, and com
 
 ---
 
-## Analysis of Operating Models (3 Marks)
+## Analysis of Operating Models 
 
 | Operating Model | Description | Best Scenario |
 |-----------------|-------------|---------------|
@@ -40,7 +40,7 @@ For relocating a whole data center, the **Enterprise model** works best because 
 
 ---
 
-## Landing Zone Deployment Strategies (2 Marks)
+## Landing Zone Deployment Strategies 
 
 ### Azure Landing Zone Accelerator
 - makes use of Azure's set of templates and standard practices
@@ -52,6 +52,6 @@ For relocating a whole data center, the **Enterprise model** works best because 
 
 ---
 
-## Personal Reflection (1 Mark)
+## Personal Reflection 
 
 The two most crucial factors for a cloud architect developing a place to land for a big business have been **security and governance**. The reputation and reliability of the company are negatively affected by risks like breaches of information, adherence infractions, and operating interruptions, which can be significantly mitigated by safeguarding sensitive data, upholding regulatory compliance, as well as putting in place clear management platforms.
