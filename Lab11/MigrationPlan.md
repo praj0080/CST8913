@@ -46,10 +46,10 @@
 
 ## 4. Server Grouping and Migration Waves 
 - **Logical Server Groupings:**
- - Frontend: NGINX hosts 
- - Backend: Node.js API hosts 
- - Load balancer & Network services: HAProxy and DNS settings
- - Backup: Linux-based backup infrastructure
+  - Frontend: NGINX hosts 
+  - Backend: Node.js API hosts 
+  - Load balancer & Network services: HAProxy and DNS settings
+  - Backup: Linux-based backup infrastructure
 
 - **Prioritization and Grouping:**
    - **Wave 1**: involves the database and cache (the core data layer); 
