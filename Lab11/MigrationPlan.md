@@ -47,7 +47,25 @@
     **Wave 3** includes of the front end workers (web app interface); 
     **Wave 4** includes of the load analyzer and DNS solutions.
   - **Precautions:**
-- 
+   - Keep firewall rules consistent.
+   - Verify that load balancer configurations have been correct.
+   - Make plans for DNS transmission and any required IP modifications.
+
+## 5. Migration Plan Documentation
+ - **Step-by-Step Migration:**
+  1. Set up Azure Cache for Memcache and Azure SQL Database for PostgreSQL; duplicate and check current data.
+  2. Use Azure Management Disks (Standard SSD) to deploy front (NGINX) and backbone (Node.js) Azure virtual machines.
+  3. To duplicate HAProxy functionality, set up Microsoft Load Balancer.
+  4. To enable controlled recovery, move your backup service to Azure Backup.
+  5. Modify DNS records to redirect to the updated IP addresses of the Azure load balancer.
+  6. Verify the backup reconstruction, safety, efficiency, and connectivity tests.
+  7. After authorization from stakeholders and satisfactory validation, remove the systems that are on premises.
+
+- **Role of Application Owners:**
+  - To ensure preparedness, run pre-migration verification tests.
+  - Verify user satisfaction, efficiency, and usability by conducting post-migration verification.
+
+
 
 
 
